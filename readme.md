@@ -23,7 +23,7 @@
 - Een functie voor het maken van een connectie met MongoDB, zie connection.js
 - Een backend API-endpoint voor het ophalen van alle vragen (http://localhost:3000/questions), zie server.js
 - Een functie (getAllQuestions) voor het ophalen van alle vragen van backend naar frontend, zie requests.js
-- Een configuratiebestand voor vite (vite.config.js), zie https://vitejs.dev/guide/
+- Een configuratiebestand voor vite (vite.config.js), handig voor HMR, zie https://vitejs.dev/guide/
 - Een root-bestand genaamd main.js van waaruit je de applicatie kan opbouwen, zie ook index.html
 - Een prachtige guilty pleasure voor tijdens het programmeren (https://youtu.be/rExthGJ3Y8M?t=755), moge hij rusten in vrede (Yuri Shatunov, 2022)
 
